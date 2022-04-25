@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memes</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="memeimage">memeImage</string>
+
+    <string name="api_key">null</string>
+
+</resources>
